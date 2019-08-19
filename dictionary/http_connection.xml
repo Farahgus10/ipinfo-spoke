@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_connection" label="HTTP(s) Connection" max_length="40" name="http_connection" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="IPInfo Token" max_length="40" name="x_388265_ipinfo_sp_ipinfo_token" type="string"/>
+    </element>
+</database>

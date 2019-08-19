@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="city" label="City" language="en" table="var__m_sys_hub_action_output_eaea9f26db533300095258b3ca96194f">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <help/>
+            <hint/>
+            <label>City</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_output_eaea9f26db533300095258b3ca96194f</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-19 15:14:25</sys_created_on>
+            <sys_id>fa74efaadb533300095258b3ca96191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>City</sys_name>
+            <sys_package display_value="IPInfo Spoke" source="x_388265_ipinfo_sp">ed8ad7a2db533300095258b3ca9619b0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPInfo Spoke">ed8ad7a2db533300095258b3ca9619b0</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_output_eaea9f26db533300095258b3ca96194f_city_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-19 15:14:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

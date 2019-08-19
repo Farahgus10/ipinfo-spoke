@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_388265_ipinfo_sp_ipinfo_token" label="IPInfo Token" language="en" table="http_connection">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_388265_ipinfo_sp_ipinfo_token</element>
+            <help/>
+            <hint/>
+            <label>IPInfo Token</label>
+            <language>en</language>
+            <name>http_connection</name>
+            <plural>IPInfo Tokens</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-19 17:32:40</sys_created_on>
+            <sys_id>8424c0bedb933300095258b3ca9619b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>IPInfo Token</sys_name>
+            <sys_package display_value="IPInfo Spoke" source="x_388265_ipinfo_sp">ed8ad7a2db533300095258b3ca9619b0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPInfo Spoke">ed8ad7a2db533300095258b3ca9619b0</sys_scope>
+            <sys_update_name>sys_documentation_http_connection_x_388265_ipinfo_sp_ipinfo_token_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-19 17:32:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
